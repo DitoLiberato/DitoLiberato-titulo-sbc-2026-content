@@ -1,0 +1,113 @@
+{
+  "topic": "miocardite",
+  "subtopic": null,
+  "target_concept": "Diagnóstico, apresentações clínicas e indicações terapêuticas nas miocardites pediátricas (incluindo cardiotoxicidade oncológica).",
+  "dominant_data": "Afirmação sobre indicação rotineira de imunossupressão na etiologia viral e seus efeitos na depuração do vírus.",
+  "stem": "A miocardite na faixa etária pediátrica apresenta um espectro clínico bastante heterogêneo, variando desde formas oligossintomáticas até o choque cardiogênico refratário. Com base nos documentos científicos da *American Heart Association* sobre o diagnóstico e manejo de miocardites e cardiomiopatias em crianças (2021 e 2023), assinale a afirmativa INCORRETA:",
+  "choices": [
+    {
+      "label": "A",
+      "text": "A ressonância magnética cardiovascular consolidou-se como um método capaz de confirmar clinicamente a suspeita de miocardite; contudo, a biópsia endomiocárdica permanece como o padrão de referência para a comprovação histopatológica."
+    },
+    {
+      "label": "B",
+      "text": "A miocardite fulminante apresenta-se caracteristicamente com choque cardiogênico, no qual taquiarritmias são comuns e a necessidade de inotrópicos ou assistência circulatória mecânica (ECMO) frequentemente se impõe."
+    },
+    {
+      "label": "C",
+      "text": "Os inibidores de checkpoint imunológico, que vêm sendo estudados na oncologia pediátrica, podem causar miocardite imunomediada como efeito cardiotóxico adverso, apresentando potencial para evolução fulminante."
+    },
+    {
+      "label": "D",
+      "text": "A terapia imunossupressora empírica com corticosteroides constitui o tratamento de primeira linha para a miocardite viral aguda, sendo indicada de rotina pois acelera a eliminação do vírus e reduz a necrose miocitária na fase inicial."
+    }
+  ],
+  "expected_bank_answer": "D",
+  "clinically_defensible_answer": "D",
+  "epistemic_rigor": 1,
+  "ambiguity": "baixa",
+  "trap_types": [
+    "overgeneralization_of_specific_treatment",
+    "plausible_sounding_pathophysiological_mechanism"
+  ],
+  "archetype": "incorreta_ou_exceto_com_distratores_plausiveis",
+  "rationale": {
+    "bank_rationale": "A questão cobra o conhecimento das diretrizes recentes da AHA (2021 e 2023) sobre inflamação miocárdica. A alternativa D é a incorreta (gabarito), pois a imunossupressão não é recomendada de rotina para miocardite viral aguda. Além de não acelerar a eliminação viral, o uso de corticosteroides na fase de viremia aguda pode, teoricamente, prejudicar a depuração do vírus e piorar a lesão miocárdica. A imunossupressão é reservada para etiologias específicas comprovadas por biópsia (como miocardite de células gigantes e eosinofílica) ou associadas a doenças autoimunes sistêmicas. As demais alternativas descrevem corretamente o papel atual da RM versus biópsia (A), a definição clássica de miocardite fulminante (B) e o risco emergente de miocardite por inibidores de checkpoint (C).",
+    "distractor_analysis": {
+      "A": "Correta. A RM cardíaca permite a confirmação clínica não invasiva, mas a biópsia endomiocárdica continua sendo o padrão-ouro para o diagnóstico histopatológico e etiológico definitivo.",
+      "B": "Correta. A miocardite fulminante é definida exatamente pelo quadro de choque cardiogênico rápido, arritmias ventriculares frequentes e alta demanda por suporte circulatório mecânico precoce.",
+      "C": "Correta. Conforme a atualização da AHA de 2023, os inibidores de checkpoint imunológico apresentam risco de cardiotoxicidade severa na forma de miocardite imunomediada fulminante, exigindo monitoramento rigoroso.",
+      "D": "Incorreta. A terapia com corticosteroides não é o tratamento de primeira linha para a miocardite viral aguda e não promove aceleração da eliminação viral; seu uso indiscriminado na fase inicial pode ser deletério."
+    },
+    "clinical_discussion": "Historicamente, o uso empírico de corticosteroides em quadros de miocardite aguda foi alvo de muita controvérsia. As evidências modernas demonstram que, embora haja inflamação, suprimir o sistema imune na fase aguda de uma infecção viral ativa não traz benefício comprovado na sobrevida global pediátrica e pode prejudicar a resposta inata de clareamento viral. A biópsia assume papel crítico justamente para identificar os fenótipos não virais (como células gigantes e eosinofílica) que mudam drasticamente o prognóstico quando a imunossupressão é instituída.",
+    "ambiguity_note": null,
+    "strategy": {
+      "concept": "Diagnóstico, apresentação clínica e manejo terapêutico das miocardites pediátricas.",
+      "decisiveCue": "A indicação de terapia imunossupressora não é rotineira e depende de comprovação etiológica.",
+      "steps": [
+        "Analisar a alternativa A com base nas notas de estudo, confirmando o papel da RM na clínica e da biópsia na histopatologia.",
+        "Avaliar a alternativa B usando a diretriz da AHA 2021, que define miocardite fulminante com choque cardiogênico, taquiarritmias e necessidade de suporte.",
+        "Verificar a alternativa C na diretriz da AHA 2023, que descreve o risco de miocardite imunomediada fulminante por inibidores de checkpoint em crianças.",
+        "Contrastar a alternativa D com as orientações de que a imunossupressão exige comprovação etiológica e não deve ser um protocolo automático."
+      ],
+      "elimination": {
+        "A": "Correta. O texto de apoio confirma que a RM pode confirmar clinicamente a suspeita sem biópsia, mas a biópsia permanece como a comprovação histopatológica.",
+        "B": "Correta. A diretriz da AHA 2021 descreve a miocardite fulminante exatamente com choque cardiogênico, taquiarritmias comuns e necessidade de suporte circulatório mecânico (MCS).",
+        "C": "Correta. A diretriz da AHA 2023 relata que inibidores de checkpoint, que estão sendo estudados em crianças, podem causar miocardite imunomediada como efeito cardiotóxico, com potencial fulminante.",
+        "D": "Incorreta (gabarito). O texto afirma explicitamente que a indicação imunossupressora depende de comprovação etiológica e não deve ser usada como protocolo automático de rotina, contrariando a afirmação de uso empírico como primeira linha."
+      },
+      "transferRule": "O tratamento imunossupressor na miocardite não é empírico ou de rotina; sua indicação depende de comprovação etiológica para direcionar a terapia adequadamente e evitar desfechos deletérios."
+    }
+  },
+  "provenance": {
+    "concept_sources": [
+      {
+        "kind": "study_note",
+        "reference": "teamcore-miocardite---juliana",
+        "detail": "RM compatível pode confirmar clinicamente sem biópsia; biópsia permanece a comprovação histopatológica... indicação antiviral e imunossupressora depende de comprovação etiológica; não usar a lista como protocolo automático."
+      },
+      {
+        "kind": "bibliography",
+        "reference": "edital-item-4#ref04-p04-c02",
+        "detail": "Fulminant myocarditis presents as cardiogenic shock; tachyarrhythmias are common, and inotropic or mechanical circulatory support (MCS) may be needed."
+      },
+      {
+        "kind": "bibliography",
+        "reference": "edital-item-5#ref05-p05-c05",
+        "detail": "Immune checkpoint inhibitors... cardiotoxic effects of these inhibitors include immune-mediated myocarditis (which can be fulminant)..."
+      }
+    ],
+    "official_bibliography_items": [
+      4,
+      5
+    ],
+    "external_sources": []
+  },
+  "id": "SYN-miocardite-mud4g9ty-n6un",
+  "origin": "SINTETICA",
+  "generation": {
+    "model": "gemini-3.1-pro-preview",
+    "prompt_version": "g3-v2-indexed-evidence-verified-1",
+    "generated_at": "2026-09-22T20:23:38.182Z",
+    "topic_id": "miocardite",
+    "context_study_notes": [
+      "teamcore-miocardite---juliana",
+      "teamcore-miscelaneas---gabriela"
+    ],
+    "context_style_examples": [
+      "SBC-2025-T-Q012",
+      "SBC-2021-T-Q001",
+      "SBC-2021-T-Q003"
+    ],
+    "context_bibliography_chunks": [
+      "edital-item-4#ref04-p03-c01",
+      "edital-item-4#ref04-p04-c02",
+      "edital-item-4#ref04-p10-c03",
+      "edital-item-5#ref05-p02-c02",
+      "edital-item-5#ref05-p05-c05",
+      "edital-item-5#ref05-p16-c01"
+    ],
+    "review_status": "approved",
+    "review_method": "evidence_and_answer_independent_pass_v1"
+  }
+}
