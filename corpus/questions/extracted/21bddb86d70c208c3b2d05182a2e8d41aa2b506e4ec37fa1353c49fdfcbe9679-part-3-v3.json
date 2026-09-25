@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 3,
+  "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+  "partSha256": "da8c4f85304eb64ed876f03c8d66c5f1dd6254cf09b4ab14936ccbdfed373ebf",
+  "index": 3,
+  "extraction": {
+    "questions": [
+      {
+        "year": 2023,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "Considere a utilização da monitorização ambulatorial da pressão arterial em crianças. Qual alternativa está correta?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Seu uso deve ser limitado a casos especiais por seu custo no diagnóstico preciso da hipertensão arterial."
+          },
+          {
+            "label": "B",
+            "text": "O dado mais importante da MAPA é a pressão arterial média, relacionada à lesão de órgão-alvo."
+          },
+          {
+            "label": "C",
+            "text": "É indicada quando há medida de pressão elevada em criança por um ano ou três medidas de hipertensão arterial sistêmica estágio 1."
+          },
+          {
+            "label": "D",
+            "text": "Deve-se dar prioridade ao método auscultatório na MAPA por sua maior precisão."
+          }
+        ],
+        "answer": "C",
+        "answerQuote": "Gabarito informado na aula: C.",
+        "comment": "A é considerada incorreta: a MAPA não deve ficar restrita apenas a casos especiais e pode ser utilizada inclusive na investigação diagnóstica para distinguir fenótipos como hipertensão mascarada.B é considerada incorreta na explicação da aula: a avaliação não se limita à pressão média; o padrão circadiano e o descenso noturno são importantes e se relacionam a lesões de órgão-alvo.C é a alternativa correta: a aula indica MAPA na persistência de pressão arterial elevada por um ano ou após três medidas compatíveis com hipertensão estágio 1.D é incorreta: a MAPA utiliza método oscilométrico.",
+        "complete": true,
+        "uncertainty": "",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "provided"
+      },
+      {
+        "year": 2020,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "Adolescente de 13 anos, com diagnóstico de coarctação da aorta aos 3 meses de vida, quando foi submetida a correção cirúrgica. Apresenta seguimento irregular e há cerca de quatro meses evolui com cefaleia diária. Foi avaliada pelo pediatra, que observou pressão arterial elevada e orientou avaliação cardiológica. É sedentária, com tempo de tela superior a quatro horas por dia.\n\nAo exame: IMC 31,83 kg/m², Z-score +2,64; PA 144/90 mmHg em membro superior direito e 150/92 mmHg nos membros inferiores; sopro sistólico 2+/6 em borda esternal direita alta; pulsos periféricos simétricos nos quatro membros.\n\nEm qual categoria a adolescente se encontra e qual conduta deve ser estabelecida, respectivamente?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Hipertensão estágio 1; ecocardiograma e dosagem do perfil lipídico."
+          },
+          {
+            "label": "B",
+            "text": "Hipertensão estágio 2; ultrassom renal e dosagem do perfil lipídico."
+          },
+          {
+            "label": "C",
+            "text": "Hipertensão estágio 2; ecocardiograma e início de tratamento farmacológico."
+          },
+          {
+            "label": "D",
+            "text": "Hipertensão estágio 1; ultrassonografia renal e início de tratamento farmacológico."
+          }
+        ],
+        "answer": "C",
+        "answerQuote": "Gabarito informado na aula: C.",
+        "comment": "Aos 13 anos, PA ≥ 140/90 mmHg é classificada na aula como hipertensão estágio 2. A paciente tem história de coarctação operada, portanto deve realizar ecocardiograma para avaliação de lesões residuais e de lesão de órgão-alvo. Apesar de não haver gradiente clínico importante entre membros superiores e inferiores e os pulsos serem simétricos, a anatomia previamente tratada deve ser reavaliada.\n\nO tratamento farmacológico já está indicado porque a paciente apresenta hipertensão estágio 2 e sintomas, no caso cefaleia. A aula também relembra outras indicações de farmacoterapia: doença renal crônica, diabetes, lesão de órgão-alvo, hipertensão estágio 2 sem causa modificável e hipertensão persistente apesar de medidas de estilo de vida.",
+        "complete": true,
+        "uncertainty": "",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "reconstructed_from_vtt"
+      },
+      {
+        "year": 2021,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "Menino de 6 anos, avaliado após vários registros de pressão arterial pelo pediatra nas últimas visitas, com valores entre os percentis 92 e 94. Com base nessas informações, assinale a alternativa que apresenta a categoria em que a criança se encontra e a próxima etapa a ser estabelecida.",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Hipertensão estágio 1; solicitar ecocardiograma e ultrassom de rins."
+          },
+          {
+            "label": "B",
+            "text": "Hipertensão do avental branco; reavaliar em duas semanas."
+          },
+          {
+            "label": "C",
+            "text": "Hipertensão estágio 2; iniciar tratamento farmacológico e reavaliar em duas semanas."
+          },
+          {
+            "label": "D",
+            "text": "Pressão arterial elevada; iniciar mudanças de estilo de vida e reavaliar em seis meses."
+          }
+        ],
+        "answer": "D",
+        "answerQuote": "Gabarito informado na aula: D.",
+        "comment": "Valores entre P90 e P95 são classificados como pressão arterial elevada, e não como hipertensão estágio 1 ou 2. A aula também ressalta que hipertensão do avental branco exigiria elevação no consultório com normalidade fora dele; o padrão descrito, isoladamente, não permite esse diagnóstico. A conduta apresentada é iniciar mudanças de estilo de vida e reavaliar em seis meses.",
+        "complete": true,
+        "uncertainty": "",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "provided"
+      },
+      {
+        "year": 2021,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "Paciente de 11 anos apresenta cefaleia, tonturas e náuseas, seguidas de síncope. É encaminhado ao pronto atendimento pediátrico, onde se evidencia pressão arterial de 180/120 mmHg em membro superior direito. Quais são, respectivamente, o diagnóstico e a conduta recomendada?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Urgência hipertensiva; manter internado e introduzir IECA para manter a pressão arterial até alcançar P90."
+          },
+          {
+            "label": "B",
+            "text": "Urgência hipertensiva; manter internado e introduzir IECA para reduzir a pressão arterial em 25% nas primeiras 8 horas até alcançar P95."
+          },
+          {
+            "label": "C",
+            "text": "Emergência hipertensiva; manter internado e introduzir bloqueador do receptor de angiotensina para reduzir a pressão arterial para 25% do valor em 8 horas até alcançar P90 nas primeiras 12 horas."
+          },
+          {
+            "label": "D",
+            "text": "Emergência hipertensiva; encaminhar à UTI e introduzir nitroprussiato para redução da pressão arterial em 25% nas primeiras 8 horas, alcançando P95 após 24 a 48 horas."
+          }
+        ],
+        "answer": "D",
+        "answerQuote": "Gabarito informado na aula: D.",
+        "comment": "Uma PA de 180/120 mmHg é extremamente elevada para uma criança de 11 anos. A sintomatologia — incluindo síncope — reforça a gravidade do quadro e a classificação como emergência hipertensiva. A conduta indicada é internação em UTI e tratamento intravenoso, com redução controlada e progressiva da pressão para evitar hipoperfusão e dano cerebral. O objetivo é reduzir aproximadamente 25% nas primeiras 8 horas e continuar a redução de forma lenta até P95 ao longo de 24 a 48 horas.",
+        "complete": true,
+        "uncertainty": "",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "provided"
+      }
+    ],
+    "verifiedQuestionIndexes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "signals": [],
+    "issues": []
+  }
+}
