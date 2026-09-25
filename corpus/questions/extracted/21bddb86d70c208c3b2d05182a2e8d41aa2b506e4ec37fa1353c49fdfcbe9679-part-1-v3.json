@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 3,
+  "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+  "partSha256": "5227e3ba86ef4a06c662c6663b91d627db3b9cc4bd876a7bd8f668accf734835",
+  "index": 1,
+  "extraction": {
+    "questions": [
+      {
+        "year": 2015,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "Considere as assertivas abaixo sobre as técnicas de aferição da pressão arterial em crianças e adolescentes:\n\nI. A largura do manguito deve corresponder a 40% da circunferência do braço, na metade da distância entre o acrômio e o olécrano, e seu comprimento deve envolver 80% a 100% da circunferência do braço.\n\nII. Caso sejam detectados níveis pressóricos anormais pelo método oscilométrico, deve-se confirmar o resultado utilizando o método auscultatório.\n\nIII. No método auscultatório, o som de Korotkoff I é utilizado para determinar a pressão sistólica e o som de Korotkoff III para determinar a pressão arterial diastólica.",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Apenas I."
+          },
+          {
+            "label": "B",
+            "text": "Apenas II."
+          },
+          {
+            "label": "C",
+            "text": "Apenas III."
+          },
+          {
+            "label": "D",
+            "text": "Apenas I e II."
+          },
+          {
+            "label": "E",
+            "text": "I, II e III."
+          }
+        ],
+        "answer": "D",
+        "answerQuote": "Gabarito informado na aula: D — Apenas I e II.",
+        "comment": "I é correta: largura do manguito ≈ 40% da circunferência do braço e comprimento envolvendo 80% a 100% da circunferência.II é correta: o método oscilométrico é apresentado como método de triagem; valores anormais devem ser confirmados pelo método auscultatório.III é incorreta: Korotkoff I define a pressão sistólica, mas a pressão diastólica corresponde a Korotkoff V ou, quando os sons persistem até 0 mmHg, à fase IV.",
+        "complete": true,
+        "uncertainty": "",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "reconstructed_from_vtt"
+      },
+      {
+        "year": null,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "O que significa, no resultado da monitorização ambulatorial da pressão arterial (MAPA), a ausência do descenso noturno da pressão arterial?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Resultado compatível com a normalidade."
+          },
+          {
+            "label": "B",
+            "text": "Maior risco de lesão em órgão-alvo."
+          },
+          {
+            "label": "C",
+            "text": "Erro dos registros pressóricos."
+          },
+          {
+            "label": "D",
+            "text": "Baixa adesão ao tratamento."
+          },
+          {
+            "label": "E",
+            "text": "Intolerância ao tratamento."
+          }
+        ],
+        "answer": "B",
+        "answerQuote": "Gabarito informado na aula: B.",
+        "comment": "",
+        "complete": true,
+        "uncertainty": "",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "provided"
+      },
+      {
+        "year": 2024,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "Escolar de 9 anos, sexo feminino, chega ao ambulatório de cardiologia pediátrica por suspeita de hipertensão arterial sistêmica. Nasceu com 35 semanas de idade gestacional, peso de nascimento de 2.600 g e apresentou boa evolução. Recebeu aleitamento materno exclusivo até o sexto mês. Faz atividade física moderada, em média 340 minutos por semana. A alimentação é rica em fibras, com poucos ultraprocessados e sal controlado. O pai é hipertenso, e a criança se alimenta basicamente em casa.\n\nAo exame, encontra-se em bom estado geral, sem sinais sugestivos de enfermidade. IMC 18, estatura 136 cm, frequência cardíaca 82 bpm. A pressão arterial foi aferida em três dias distintos:\n\nprimeira medida: PAS e PAD < P90;\nsegunda medida: PAS > P95 e PAD entre P90 e P95;\nterceira medida: PAS e PAD novamente < P90.\n\nCom base no caso exposto, qual é o seguimento inicial recomendado?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Retornar sem recomendações ao ambulatório de pediatria."
+          },
+          {
+            "label": "B",
+            "text": "Aferir a pressão arterial a cada três meses para o diagnóstico de hipertensão arterial."
+          },
+          {
+            "label": "C",
+            "text": "Solicitar MAPA para descartar hipertensão mascarada."
+          },
+          {
+            "label": "D",
+            "text": "Realizar investigação inicial de crianças com hipertensão."
+          }
+        ],
+        "answer": "C",
+        "answerQuote": "Gabarito informado na aula: C.",
+        "comment": "A criança ainda não preenche critérios para diagnóstico de hipertensão, pois houve apenas um registro alterado e ela está assintomática. Em uma situação convencional, poderia haver repetição das aferições em 1 a 2 semanas; se persistisse estágio 1, poderia ser feita medida nos quatro membros e nova avaliação posterior.\n\nEntretanto, a aula destaca fatores de risco — pai hipertenso e nascimento com 35 semanas — que justificariam avaliação mais robusta e precoce. A MAPA seria a melhor maneira de avaliar a pressão no cotidiano e descartar hipertensão mascarada antes de iniciar investigação completa de hipertensão secundária.\n\nA investigação laboratorial e por imagem para causas secundárias deve ser iniciada após confirmação da hipertensão ou quando existirem achados clínicos sugestivos de causa secundária.",
+        "complete": true,
+        "uncertainty": "",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "reconstructed_from_vtt"
+      },
+      {
+        "year": 2023,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "Considere a utilização da monitorização ambulatorial da pressão arterial em crianças. Qual alternativa está correta?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Seu uso deve ser limitado a casos especiais por seu custo no diagnóstico preciso da hipertensão arterial."
+          },
+          {
+            "label": "B",
+            "text": "O dado mais importante da MAPA é a pressão arterial média, relacionada à lesão de órgão-alvo."
+          },
+          {
+            "label": "C",
+            "text": "É indicada quando há medida de pressão elevada em criança por um ano ou três medidas de hipertensão arterial sistêmica estágio 1."
+          },
+          {
+            "label": "D",
+            "text": "Deve-se dar prioridade ao método auscultatório na MAPA por sua maior precisão."
+          }
+        ],
+        "answer": "C",
+        "answerQuote": "Gabarito informado na aula: C.",
+        "comment": "A é considerada incorreta: a MAPA não deve ficar restrita apenas a casos especiais e pode ser utilizada inclusive na investigação diagnóstica para distinguir fenótipos como hipertensão mascarada.B é considerada incorreta na explicação da aula: a avaliação não se limita à pressão média; o padrão circadiano e o descenso noturno são importantes e se relacionam a lesões de órgão-alvo.C é a alternativa correta: a aula indica MAPA na persistência de pressão arterial elevada por um ano ou após três medidas compatíveis com hipertensão estágio 1.D é incorreta: a MAPA utiliza método oscilométrico.",
+        "complete": true,
+        "uncertainty": "",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "provided"
+      },
+      {
+        "year": 2020,
+        "number": null,
+        "topicId": "hipertensao_arterial_sistemica",
+        "stem": "Adolescente de 13 anos, com diagnóstico de coarctação da aorta aos 3 meses de vida, quando foi submetida a correção cirúrgica. Apresenta seguimento irregular e há cerca de quatro meses evolui com cefaleia diária. Foi avaliada pelo pediatra, que observou pressão arterial elevada e orientou avaliação cardiológica. É sedentária, com tempo de tela superior a quatro horas por dia.\n\nAo exame: IMC 31,83 kg/m², Z-score +2,64; PA 144/90 mmHg em membro superior direito e 150/92 mmHg nos membros inferiores; sopro sistólico 2+/6 em borda esternal direita alta; pulsos periféricos simétricos nos quatro membros.\n\nEm qual categoria a adolescente se encontra e qual conduta deve ser estabelecida, respectivamente?",
+        "choices": [],
+        "answer": null,
+        "answerQuote": "",
+        "comment": "",
+        "complete": false,
+        "uncertainty": "Bloco sem quatro alternativas ou gabarito explícito.",
+        "imageRequired": false,
+        "stage": "desconhecida",
+        "sourceQualifier": "reconstructed_from_vtt"
+      }
+    ],
+    "verifiedQuestionIndexes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "signals": [],
+    "issues": []
+  }
+}
