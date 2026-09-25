@@ -1,0 +1,529 @@
+{
+  "schemaVersion": 1,
+  "lesson": {
+    "id": "teamcore-21bddb86d70c208c3b2d",
+    "title": "HAS na Pediatria",
+    "lecturer": "Juliana",
+    "module": "unassigned",
+    "path": "content/study/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.md",
+    "sourceFile": "HAS_Juliana_revisao_integral.md",
+    "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+    "sourceType": "prepared_text",
+    "availableForReading": true,
+    "createdAt": "2026-09-25T10:07:15.054Z",
+    "topicIds": [
+      "hipertensao_arterial_sistemica"
+    ],
+    "questionReview": {
+      "published": 7,
+      "pending": 1,
+      "duplicates": 0,
+      "issues": 0
+    }
+  },
+  "model": "gemini-3.1-pro-preview",
+  "reviewMethod": "prepared_text_literal_local_check_v3",
+  "partPaths": [
+    "corpus/questions/extracted/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679-part-0-v3.json",
+    "corpus/questions/extracted/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679-part-1-v3.json",
+    "corpus/questions/extracted/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679-part-2-v3.json",
+    "corpus/questions/extracted/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679-part-3-v3.json"
+  ],
+  "approved": [
+    {
+      "id": "teamcore-21bddb86d70c208c3b2d-q75993b80b85f91853a38",
+      "origin": "TEAMCORE",
+      "sourceType": "prepared_text",
+      "historicalProvenance": "RECONSTRUCTED_FROM_COURSE",
+      "primarySource": "HAS na Pediatria · Juliana · texto preparado",
+      "year": 2015,
+      "stage": "desconhecida",
+      "format": "multiple_choice",
+      "topic": "hipertensao_arterial_sistemica",
+      "stem": "Considere as assertivas abaixo sobre as técnicas de aferição da pressão arterial em crianças e adolescentes:\n\nI. A largura do manguito deve corresponder a 40% da circunferência do braço, na metade da distância entre o acrômio e o olécrano, e seu comprimento deve envolver 80% a 100% da circunferência do braço.\n\nII. Caso sejam detectados níveis pressóricos anormais pelo método oscilométrico, deve-se confirmar o resultado utilizando o método auscultatório.\n\nIII. No método auscultatório, o som de Korotkoff I é utilizado para determinar a pressão sistólica e o som de Korotkoff III para determinar a pressão arterial diastólica.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apenas I."
+        },
+        {
+          "label": "B",
+          "text": "Apenas II."
+        },
+        {
+          "label": "C",
+          "text": "Apenas III."
+        },
+        {
+          "label": "D",
+          "text": "Apenas I e II."
+        },
+        {
+          "label": "E",
+          "text": "I, II e III."
+        }
+      ],
+      "officialAnswer": "D",
+      "informedAnswer": "D",
+      "missingRequiredAssets": false,
+      "reviewStatus": "approved",
+      "answerEvidence": {
+        "authority": "teamcore_official_for_app",
+        "sourceReference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=11859-12641&sha256=15067d46733f6c0c5ea52f86112774ec574a88121ad09203b4551208ee48743e",
+        "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+        "quote": "Gabarito informado na aula: D — Apenas I e II."
+      },
+      "epistemicRigor": 1,
+      "ambiguity": "moderada",
+      "trapTypes": [],
+      "correlatedSources": [
+        {
+          "kind": "prepared_text",
+          "reference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=11859-12641&sha256=15067d46733f6c0c5ea52f86112774ec574a88121ad09203b4551208ee48743e",
+          "provenance": "RECONSTRUCTED_FROM_COURSE"
+        }
+      ],
+      "feedback": {
+        "bankRationale": "I é correta: largura do manguito ≈ 40% da circunferência do braço e comprimento envolvendo 80% a 100% da circunferência.II é correta: o método oscilométrico é apresentado como método de triagem; valores anormais devem ser confirmados pelo método auscultatório.III é incorreta: Korotkoff I define a pressão sistólica, mas a pressão diastólica corresponde a Korotkoff V ou, quando os sons persistem até 0 mmHg, à fase IV.",
+        "distractorAnalysis": {},
+        "officialBibliographyItems": [],
+        "teamCoreComment": "I é correta: largura do manguito ≈ 40% da circunferência do braço e comprimento envolvendo 80% a 100% da circunferência.II é correta: o método oscilométrico é apresentado como método de triagem; valores anormais devem ser confirmados pelo método auscultatório.III é incorreta: Korotkoff I define a pressão sistólica, mas a pressão diastólica corresponde a Korotkoff V ou, quando os sons persistem até 0 mmHg, à fase IV.",
+        "ambiguityNote": null
+      },
+      "notes": "Questão histórica reproduzida no texto preparado da aula. Enunciado reconstruído a partir do VTT entregue pelo usuário. O gabarito explícito do curso pontua no aplicativo; não é apresentado como documento oficial da banca.",
+      "equivalentIds": []
+    },
+    {
+      "id": "teamcore-21bddb86d70c208c3b2d-q06846d422672838b5bb1",
+      "origin": "TEAMCORE",
+      "sourceType": "prepared_text",
+      "historicalProvenance": "RECONSTRUCTED_FROM_COURSE",
+      "primarySource": "HAS na Pediatria · Juliana · texto preparado",
+      "year": null,
+      "stage": "desconhecida",
+      "format": "multiple_choice",
+      "topic": "hipertensao_arterial_sistemica",
+      "stem": "O que significa, no resultado da monitorização ambulatorial da pressão arterial (MAPA), a ausência do descenso noturno da pressão arterial?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Resultado compatível com a normalidade."
+        },
+        {
+          "label": "B",
+          "text": "Maior risco de lesão em órgão-alvo."
+        },
+        {
+          "label": "C",
+          "text": "Erro dos registros pressóricos."
+        },
+        {
+          "label": "D",
+          "text": "Baixa adesão ao tratamento."
+        },
+        {
+          "label": "E",
+          "text": "Intolerância ao tratamento."
+        }
+      ],
+      "officialAnswer": "B",
+      "informedAnswer": "B",
+      "missingRequiredAssets": false,
+      "reviewStatus": "approved",
+      "answerEvidence": {
+        "authority": "teamcore_official_for_app",
+        "sourceReference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=17385-17745&sha256=d07e825cf95f15c1f7a5333e142ea24d76b2ea0f95b1244f841f85c3c9ac1444",
+        "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+        "quote": "Gabarito informado na aula: B."
+      },
+      "epistemicRigor": 1,
+      "ambiguity": "moderada",
+      "trapTypes": [],
+      "correlatedSources": [
+        {
+          "kind": "prepared_text",
+          "reference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=17385-17745&sha256=d07e825cf95f15c1f7a5333e142ea24d76b2ea0f95b1244f841f85c3c9ac1444",
+          "provenance": "RECONSTRUCTED_FROM_COURSE"
+        }
+      ],
+      "feedback": {
+        "bankRationale": "",
+        "distractorAnalysis": {},
+        "officialBibliographyItems": [],
+        "teamCoreComment": "",
+        "ambiguityNote": null
+      },
+      "notes": "Questão histórica reproduzida no texto preparado da aula. O gabarito explícito do curso pontua no aplicativo; não é apresentado como documento oficial da banca.",
+      "equivalentIds": []
+    },
+    {
+      "id": "teamcore-21bddb86d70c208c3b2d-qeea1ee7caa073950b4ad",
+      "origin": "TEAMCORE",
+      "sourceType": "prepared_text",
+      "historicalProvenance": "RECONSTRUCTED_FROM_COURSE",
+      "primarySource": "HAS na Pediatria · Juliana · texto preparado",
+      "year": 2024,
+      "stage": "desconhecida",
+      "format": "multiple_choice",
+      "topic": "hipertensao_arterial_sistemica",
+      "stem": "Escolar de 9 anos, sexo feminino, chega ao ambulatório de cardiologia pediátrica por suspeita de hipertensão arterial sistêmica. Nasceu com 35 semanas de idade gestacional, peso de nascimento de 2.600 g e apresentou boa evolução. Recebeu aleitamento materno exclusivo até o sexto mês. Faz atividade física moderada, em média 340 minutos por semana. A alimentação é rica em fibras, com poucos ultraprocessados e sal controlado. O pai é hipertenso, e a criança se alimenta basicamente em casa.\n\nAo exame, encontra-se em bom estado geral, sem sinais sugestivos de enfermidade. IMC 18, estatura 136 cm, frequência cardíaca 82 bpm. A pressão arterial foi aferida em três dias distintos:\n\nprimeira medida: PAS e PAD < P90;\nsegunda medida: PAS > P95 e PAD entre P90 e P95;\nterceira medida: PAS e PAD novamente < P90.\n\nCom base no caso exposto, qual é o seguimento inicial recomendado?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Retornar sem recomendações ao ambulatório de pediatria."
+        },
+        {
+          "label": "B",
+          "text": "Aferir a pressão arterial a cada três meses para o diagnóstico de hipertensão arterial."
+        },
+        {
+          "label": "C",
+          "text": "Solicitar MAPA para descartar hipertensão mascarada."
+        },
+        {
+          "label": "D",
+          "text": "Realizar investigação inicial de crianças com hipertensão."
+        }
+      ],
+      "officialAnswer": "C",
+      "informedAnswer": "C",
+      "missingRequiredAssets": false,
+      "reviewStatus": "approved",
+      "answerEvidence": {
+        "authority": "teamcore_official_for_app",
+        "sourceReference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=21307-22498&sha256=354d669eaeeeab252fb548473600b8ec875318bbf6e972acd752ab784f83cd25",
+        "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+        "quote": "Gabarito informado na aula: C."
+      },
+      "epistemicRigor": 1,
+      "ambiguity": "moderada",
+      "trapTypes": [],
+      "correlatedSources": [
+        {
+          "kind": "prepared_text",
+          "reference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=21307-22498&sha256=354d669eaeeeab252fb548473600b8ec875318bbf6e972acd752ab784f83cd25",
+          "provenance": "RECONSTRUCTED_FROM_COURSE"
+        }
+      ],
+      "feedback": {
+        "bankRationale": "A criança ainda não preenche critérios para diagnóstico de hipertensão, pois houve apenas um registro alterado e ela está assintomática. Em uma situação convencional, poderia haver repetição das aferições em 1 a 2 semanas; se persistisse estágio 1, poderia ser feita medida nos quatro membros e nova avaliação posterior.\n\nEntretanto, a aula destaca fatores de risco — pai hipertenso e nascimento com 35 semanas — que justificariam avaliação mais robusta e precoce. A MAPA seria a melhor maneira de avaliar a pressão no cotidiano e descartar hipertensão mascarada antes de iniciar investigação completa de hipertensão secundária.\n\nA investigação laboratorial e por imagem para causas secundárias deve ser iniciada após confirmação da hipertensão ou quando existirem achados clínicos sugestivos de causa secundária.",
+        "distractorAnalysis": {},
+        "officialBibliographyItems": [],
+        "teamCoreComment": "A criança ainda não preenche critérios para diagnóstico de hipertensão, pois houve apenas um registro alterado e ela está assintomática. Em uma situação convencional, poderia haver repetição das aferições em 1 a 2 semanas; se persistisse estágio 1, poderia ser feita medida nos quatro membros e nova avaliação posterior.\n\nEntretanto, a aula destaca fatores de risco — pai hipertenso e nascimento com 35 semanas — que justificariam avaliação mais robusta e precoce. A MAPA seria a melhor maneira de avaliar a pressão no cotidiano e descartar hipertensão mascarada antes de iniciar investigação completa de hipertensão secundária.\n\nA investigação laboratorial e por imagem para causas secundárias deve ser iniciada após confirmação da hipertensão ou quando existirem achados clínicos sugestivos de causa secundária.",
+        "ambiguityNote": null
+      },
+      "notes": "Questão histórica reproduzida no texto preparado da aula. Enunciado reconstruído a partir do VTT entregue pelo usuário. O gabarito explícito do curso pontua no aplicativo; não é apresentado como documento oficial da banca.",
+      "equivalentIds": []
+    },
+    {
+      "id": "teamcore-21bddb86d70c208c3b2d-q2249d17ea3a5cf2dc2b6",
+      "origin": "TEAMCORE",
+      "sourceType": "prepared_text",
+      "historicalProvenance": "RECONSTRUCTED_FROM_COURSE",
+      "primarySource": "HAS na Pediatria · Juliana · texto preparado",
+      "year": 2023,
+      "stage": "desconhecida",
+      "format": "multiple_choice",
+      "topic": "hipertensao_arterial_sistemica",
+      "stem": "Considere a utilização da monitorização ambulatorial da pressão arterial em crianças. Qual alternativa está correta?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Seu uso deve ser limitado a casos especiais por seu custo no diagnóstico preciso da hipertensão arterial."
+        },
+        {
+          "label": "B",
+          "text": "O dado mais importante da MAPA é a pressão arterial média, relacionada à lesão de órgão-alvo."
+        },
+        {
+          "label": "C",
+          "text": "É indicada quando há medida de pressão elevada em criança por um ano ou três medidas de hipertensão arterial sistêmica estágio 1."
+        },
+        {
+          "label": "D",
+          "text": "Deve-se dar prioridade ao método auscultatório na MAPA por sua maior precisão."
+        }
+      ],
+      "officialAnswer": "C",
+      "informedAnswer": "C",
+      "missingRequiredAssets": false,
+      "reviewStatus": "approved",
+      "answerEvidence": {
+        "authority": "teamcore_official_for_app",
+        "sourceReference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=24137-24714&sha256=401042633b7ad1b1063a2127d624048829923dace3994f7cc433e3912d606a2f",
+        "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+        "quote": "Gabarito informado na aula: C."
+      },
+      "epistemicRigor": 1,
+      "ambiguity": "moderada",
+      "trapTypes": [],
+      "correlatedSources": [
+        {
+          "kind": "prepared_text",
+          "reference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=24137-24714&sha256=401042633b7ad1b1063a2127d624048829923dace3994f7cc433e3912d606a2f",
+          "provenance": "RECONSTRUCTED_FROM_COURSE"
+        }
+      ],
+      "feedback": {
+        "bankRationale": "A é considerada incorreta: a MAPA não deve ficar restrita apenas a casos especiais e pode ser utilizada inclusive na investigação diagnóstica para distinguir fenótipos como hipertensão mascarada.B é considerada incorreta na explicação da aula: a avaliação não se limita à pressão média; o padrão circadiano e o descenso noturno são importantes e se relacionam a lesões de órgão-alvo.C é a alternativa correta: a aula indica MAPA na persistência de pressão arterial elevada por um ano ou após três medidas compatíveis com hipertensão estágio 1.D é incorreta: a MAPA utiliza método oscilométrico.",
+        "distractorAnalysis": {},
+        "officialBibliographyItems": [],
+        "teamCoreComment": "A é considerada incorreta: a MAPA não deve ficar restrita apenas a casos especiais e pode ser utilizada inclusive na investigação diagnóstica para distinguir fenótipos como hipertensão mascarada.B é considerada incorreta na explicação da aula: a avaliação não se limita à pressão média; o padrão circadiano e o descenso noturno são importantes e se relacionam a lesões de órgão-alvo.C é a alternativa correta: a aula indica MAPA na persistência de pressão arterial elevada por um ano ou após três medidas compatíveis com hipertensão estágio 1.D é incorreta: a MAPA utiliza método oscilométrico.",
+        "ambiguityNote": null
+      },
+      "notes": "Questão histórica reproduzida no texto preparado da aula. O gabarito explícito do curso pontua no aplicativo; não é apresentado como documento oficial da banca.",
+      "equivalentIds": []
+    },
+    {
+      "id": "teamcore-21bddb86d70c208c3b2d-qec2f140a7349da049e99",
+      "origin": "TEAMCORE",
+      "sourceType": "prepared_text",
+      "historicalProvenance": "RECONSTRUCTED_FROM_COURSE",
+      "primarySource": "HAS na Pediatria · Juliana · texto preparado",
+      "year": 2020,
+      "stage": "desconhecida",
+      "format": "multiple_choice",
+      "topic": "hipertensao_arterial_sistemica",
+      "stem": "Adolescente de 13 anos, com diagnóstico de coarctação da aorta aos 3 meses de vida, quando foi submetida a correção cirúrgica. Apresenta seguimento irregular e há cerca de quatro meses evolui com cefaleia diária. Foi avaliada pelo pediatra, que observou pressão arterial elevada e orientou avaliação cardiológica. É sedentária, com tempo de tela superior a quatro horas por dia.\n\nAo exame: IMC 31,83 kg/m², Z-score +2,64; PA 144/90 mmHg em membro superior direito e 150/92 mmHg nos membros inferiores; sopro sistólico 2+/6 em borda esternal direita alta; pulsos periféricos simétricos nos quatro membros.\n\nEm qual categoria a adolescente se encontra e qual conduta deve ser estabelecida, respectivamente?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hipertensão estágio 1; ecocardiograma e dosagem do perfil lipídico."
+        },
+        {
+          "label": "B",
+          "text": "Hipertensão estágio 2; ultrassom renal e dosagem do perfil lipídico."
+        },
+        {
+          "label": "C",
+          "text": "Hipertensão estágio 2; ecocardiograma e início de tratamento farmacológico."
+        },
+        {
+          "label": "D",
+          "text": "Hipertensão estágio 1; ultrassonografia renal e início de tratamento farmacológico."
+        }
+      ],
+      "officialAnswer": "C",
+      "informedAnswer": "C",
+      "missingRequiredAssets": false,
+      "reviewStatus": "approved",
+      "answerEvidence": {
+        "authority": "teamcore_official_for_app",
+        "sourceReference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=34951-36004&sha256=9315cd807e18492cff63d494d41076181d2b0d0abaa0b48be9f169778a2c311e",
+        "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+        "quote": "Gabarito informado na aula: C."
+      },
+      "epistemicRigor": 1,
+      "ambiguity": "moderada",
+      "trapTypes": [],
+      "correlatedSources": [
+        {
+          "kind": "prepared_text",
+          "reference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=34951-36004&sha256=9315cd807e18492cff63d494d41076181d2b0d0abaa0b48be9f169778a2c311e",
+          "provenance": "RECONSTRUCTED_FROM_COURSE"
+        }
+      ],
+      "feedback": {
+        "bankRationale": "Aos 13 anos, PA ≥ 140/90 mmHg é classificada na aula como hipertensão estágio 2. A paciente tem história de coarctação operada, portanto deve realizar ecocardiograma para avaliação de lesões residuais e de lesão de órgão-alvo. Apesar de não haver gradiente clínico importante entre membros superiores e inferiores e os pulsos serem simétricos, a anatomia previamente tratada deve ser reavaliada.\n\nO tratamento farmacológico já está indicado porque a paciente apresenta hipertensão estágio 2 e sintomas, no caso cefaleia. A aula também relembra outras indicações de farmacoterapia: doença renal crônica, diabetes, lesão de órgão-alvo, hipertensão estágio 2 sem causa modificável e hipertensão persistente apesar de medidas de estilo de vida.",
+        "distractorAnalysis": {},
+        "officialBibliographyItems": [],
+        "teamCoreComment": "Aos 13 anos, PA ≥ 140/90 mmHg é classificada na aula como hipertensão estágio 2. A paciente tem história de coarctação operada, portanto deve realizar ecocardiograma para avaliação de lesões residuais e de lesão de órgão-alvo. Apesar de não haver gradiente clínico importante entre membros superiores e inferiores e os pulsos serem simétricos, a anatomia previamente tratada deve ser reavaliada.\n\nO tratamento farmacológico já está indicado porque a paciente apresenta hipertensão estágio 2 e sintomas, no caso cefaleia. A aula também relembra outras indicações de farmacoterapia: doença renal crônica, diabetes, lesão de órgão-alvo, hipertensão estágio 2 sem causa modificável e hipertensão persistente apesar de medidas de estilo de vida.",
+        "ambiguityNote": null
+      },
+      "notes": "Questão histórica reproduzida no texto preparado da aula. Enunciado reconstruído a partir do VTT entregue pelo usuário. O gabarito explícito do curso pontua no aplicativo; não é apresentado como documento oficial da banca.",
+      "equivalentIds": []
+    },
+    {
+      "id": "teamcore-21bddb86d70c208c3b2d-q07df9fc93fb6ab6e73c7",
+      "origin": "TEAMCORE",
+      "sourceType": "prepared_text",
+      "historicalProvenance": "RECONSTRUCTED_FROM_COURSE",
+      "primarySource": "HAS na Pediatria · Juliana · texto preparado",
+      "year": 2021,
+      "stage": "desconhecida",
+      "format": "multiple_choice",
+      "topic": "hipertensao_arterial_sistemica",
+      "stem": "Menino de 6 anos, avaliado após vários registros de pressão arterial pelo pediatra nas últimas visitas, com valores entre os percentis 92 e 94. Com base nessas informações, assinale a alternativa que apresenta a categoria em que a criança se encontra e a próxima etapa a ser estabelecida.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hipertensão estágio 1; solicitar ecocardiograma e ultrassom de rins."
+        },
+        {
+          "label": "B",
+          "text": "Hipertensão do avental branco; reavaliar em duas semanas."
+        },
+        {
+          "label": "C",
+          "text": "Hipertensão estágio 2; iniciar tratamento farmacológico e reavaliar em duas semanas."
+        },
+        {
+          "label": "D",
+          "text": "Pressão arterial elevada; iniciar mudanças de estilo de vida e reavaliar em seis meses."
+        }
+      ],
+      "officialAnswer": "D",
+      "informedAnswer": "D",
+      "missingRequiredAssets": false,
+      "reviewStatus": "approved",
+      "answerEvidence": {
+        "authority": "teamcore_official_for_app",
+        "sourceReference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=36864-37504&sha256=428320c0fdbe3891ac61878621039eb07a68013c1f1656eb9a3967a37aa5ffbd",
+        "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+        "quote": "Gabarito informado na aula: D."
+      },
+      "epistemicRigor": 1,
+      "ambiguity": "moderada",
+      "trapTypes": [],
+      "correlatedSources": [
+        {
+          "kind": "prepared_text",
+          "reference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=36864-37504&sha256=428320c0fdbe3891ac61878621039eb07a68013c1f1656eb9a3967a37aa5ffbd",
+          "provenance": "RECONSTRUCTED_FROM_COURSE"
+        }
+      ],
+      "feedback": {
+        "bankRationale": "Valores entre P90 e P95 são classificados como pressão arterial elevada, e não como hipertensão estágio 1 ou 2. A aula também ressalta que hipertensão do avental branco exigiria elevação no consultório com normalidade fora dele; o padrão descrito, isoladamente, não permite esse diagnóstico. A conduta apresentada é iniciar mudanças de estilo de vida e reavaliar em seis meses.",
+        "distractorAnalysis": {},
+        "officialBibliographyItems": [],
+        "teamCoreComment": "Valores entre P90 e P95 são classificados como pressão arterial elevada, e não como hipertensão estágio 1 ou 2. A aula também ressalta que hipertensão do avental branco exigiria elevação no consultório com normalidade fora dele; o padrão descrito, isoladamente, não permite esse diagnóstico. A conduta apresentada é iniciar mudanças de estilo de vida e reavaliar em seis meses.",
+        "ambiguityNote": null
+      },
+      "notes": "Questão histórica reproduzida no texto preparado da aula. O gabarito explícito do curso pontua no aplicativo; não é apresentado como documento oficial da banca.",
+      "equivalentIds": []
+    },
+    {
+      "id": "teamcore-21bddb86d70c208c3b2d-q0050d375d01b66054315",
+      "origin": "TEAMCORE",
+      "sourceType": "prepared_text",
+      "historicalProvenance": "RECONSTRUCTED_FROM_COURSE",
+      "primarySource": "HAS na Pediatria · Juliana · texto preparado",
+      "year": 2021,
+      "stage": "desconhecida",
+      "format": "multiple_choice",
+      "topic": "hipertensao_arterial_sistemica",
+      "stem": "Paciente de 11 anos apresenta cefaleia, tonturas e náuseas, seguidas de síncope. É encaminhado ao pronto atendimento pediátrico, onde se evidencia pressão arterial de 180/120 mmHg em membro superior direito. Quais são, respectivamente, o diagnóstico e a conduta recomendada?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urgência hipertensiva; manter internado e introduzir IECA para manter a pressão arterial até alcançar P90."
+        },
+        {
+          "label": "B",
+          "text": "Urgência hipertensiva; manter internado e introduzir IECA para reduzir a pressão arterial em 25% nas primeiras 8 horas até alcançar P95."
+        },
+        {
+          "label": "C",
+          "text": "Emergência hipertensiva; manter internado e introduzir bloqueador do receptor de angiotensina para reduzir a pressão arterial para 25% do valor em 8 horas até alcançar P90 nas primeiras 12 horas."
+        },
+        {
+          "label": "D",
+          "text": "Emergência hipertensiva; encaminhar à UTI e introduzir nitroprussiato para redução da pressão arterial em 25% nas primeiras 8 horas, alcançando P95 após 24 a 48 horas."
+        }
+      ],
+      "officialAnswer": "D",
+      "informedAnswer": "D",
+      "missingRequiredAssets": false,
+      "reviewStatus": "approved",
+      "answerEvidence": {
+        "authority": "teamcore_official_for_app",
+        "sourceReference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=40441-41375&sha256=d674a7da316e233ba91e0711c95b36d70445b17c31a32020bbaaf7b689b57162",
+        "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+        "quote": "Gabarito informado na aula: D."
+      },
+      "epistemicRigor": 1,
+      "ambiguity": "moderada",
+      "trapTypes": [],
+      "correlatedSources": [
+        {
+          "kind": "prepared_text",
+          "reference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=40441-41375&sha256=d674a7da316e233ba91e0711c95b36d70445b17c31a32020bbaaf7b689b57162",
+          "provenance": "RECONSTRUCTED_FROM_COURSE"
+        }
+      ],
+      "feedback": {
+        "bankRationale": "Uma PA de 180/120 mmHg é extremamente elevada para uma criança de 11 anos. A sintomatologia — incluindo síncope — reforça a gravidade do quadro e a classificação como emergência hipertensiva. A conduta indicada é internação em UTI e tratamento intravenoso, com redução controlada e progressiva da pressão para evitar hipoperfusão e dano cerebral. O objetivo é reduzir aproximadamente 25% nas primeiras 8 horas e continuar a redução de forma lenta até P95 ao longo de 24 a 48 horas.",
+        "distractorAnalysis": {},
+        "officialBibliographyItems": [],
+        "teamCoreComment": "Uma PA de 180/120 mmHg é extremamente elevada para uma criança de 11 anos. A sintomatologia — incluindo síncope — reforça a gravidade do quadro e a classificação como emergência hipertensiva. A conduta indicada é internação em UTI e tratamento intravenoso, com redução controlada e progressiva da pressão para evitar hipoperfusão e dano cerebral. O objetivo é reduzir aproximadamente 25% nas primeiras 8 horas e continuar a redução de forma lenta até P95 ao longo de 24 a 48 horas.",
+        "ambiguityNote": null
+      },
+      "notes": "Questão histórica reproduzida no texto preparado da aula. O gabarito explícito do curso pontua no aplicativo; não é apresentado como documento oficial da banca.",
+      "equivalentIds": []
+    }
+  ],
+  "pending": [
+    {
+      "question": {
+        "id": "teamcore-21bddb86d70c208c3b2d-qd89f2fa88ccd37976e7b",
+        "origin": "TEAMCORE",
+        "sourceType": "prepared_text",
+        "historicalProvenance": "RECONSTRUCTED_FROM_COURSE",
+        "primarySource": "HAS na Pediatria · Juliana · texto preparado",
+        "year": null,
+        "stage": "desconhecida",
+        "format": "multiple_choice",
+        "topic": "hipertensao_arterial_sistemica",
+        "stem": "I. A largura do manguito deve corresponder a 40% da circunferência do braço, na metade da distância entre o acrômio e o olécrano, e seu comprimento deve envolver 80% a 100% da circunferência do braço.\n\nII. Caso sejam detectados níveis pressóricos anormais pelo método oscilométrico, deve-se confirmar o resultado utilizando o método auscultatório.\n\nIII. No método auscultatório, o som de Korotkoff I é utilizado para determinar a pressão sistólica e o som de Korotkoff III para determinar a pressão arterial diastólica.",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Apenas I."
+          },
+          {
+            "label": "B",
+            "text": "Apenas II."
+          },
+          {
+            "label": "C",
+            "text": "Apenas III."
+          },
+          {
+            "label": "D",
+            "text": "Apenas I e II."
+          },
+          {
+            "label": "E",
+            "text": "I, II e III."
+          }
+        ],
+        "officialAnswer": "D",
+        "informedAnswer": "D",
+        "missingRequiredAssets": false,
+        "reviewStatus": "pending",
+        "answerEvidence": {
+          "authority": "teamcore_official_for_app",
+          "sourceReference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=11969-12641&sha256=ccb66a55896f08ce78b78b020e34ea9e938116421ed40fd603c55ad8b020aef0",
+          "sourceSha256": "21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679",
+          "quote": "D — Apenas I e II."
+        },
+        "epistemicRigor": 1,
+        "ambiguity": "moderada",
+        "trapTypes": [],
+        "correlatedSources": [
+          {
+            "kind": "prepared_text",
+            "reference": "sources/teamcore/uploads/21bddb86d70c208c3b2d05182a2e8d41aa2b506e4ec37fa1353c49fdfcbe9679.txt#char=11969-12641&sha256=ccb66a55896f08ce78b78b020e34ea9e938116421ed40fd603c55ad8b020aef0",
+            "provenance": "RECONSTRUCTED_FROM_COURSE"
+          }
+        ],
+        "feedback": {
+          "bankRationale": "- I é correta: largura do manguito ≈ 40% da circunferência do braço e comprimento envolvendo 80% a 100% da circunferência.\n- II é correta: o método oscilométrico é apresentado como método de triagem; valores anormais devem ser confirmados pelo método auscultatório.\n- III é incorreta: Korotkoff I define a pressão sistólica, mas a pressão diastólica corresponde a Korotkoff V ou, quando os sons persistem até 0 mmHg, à fase IV.",
+          "distractorAnalysis": {},
+          "officialBibliographyItems": [],
+          "teamCoreComment": "- I é correta: largura do manguito ≈ 40% da circunferência do braço e comprimento envolvendo 80% a 100% da circunferência.\n- II é correta: o método oscilométrico é apresentado como método de triagem; valores anormais devem ser confirmados pelo método auscultatório.\n- III é incorreta: Korotkoff I define a pressão sistólica, mas a pressão diastólica corresponde a Korotkoff V ou, quando os sons persistem até 0 mmHg, à fase IV.",
+          "ambiguityNote": null
+        },
+        "notes": "Questão histórica reproduzida no texto preparado da aula. O gabarito explícito do curso pontua no aplicativo; não é apresentado como documento oficial da banca."
+      },
+      "reasons": [
+        "answer_not_explicit",
+        "source_verification_pending",
+        "not_eligible_for_objective_pool"
+      ]
+    }
+  ],
+  "duplicates": [],
+  "possibleStagingMatches": [],
+  "issues": []
+}
